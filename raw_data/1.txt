@@ -1,0 +1,13 @@
+{
+    "name": "Wunderland", 
+    "synopsis": "", 
+    "year": 2018, 
+    "genres": ["War"], 
+    "cover": "https://yts.am/assets/images/movies/wunderland_2018/medium-cover.jpg", 
+    "rating": {"likes": 1, "imdb": 5.8}, 
+    "download": {"links": {"quality": "1080p.WEB", "url": "https://yts.am/torrent/download/66ABF7427359B5F3A870285C7F2168F901005126"}}, 
+    "similar_movies": [], 
+    "screenshots": ["https://yts.am/assets/images/movies/wunderland_2018/large-screenshot1.jpg", "https://yts.am/assets/images/movies/wunderland_2018/large-screenshot2.jpg", "https://yts.am/assets/images/movies/wunderland_2018/large-screenshot3.jpg"], 
+    "directors": [{"name": "Steven Luke", "photo": "", "url": "http://www.imdb.com/name/nm3531089/"}], 
+    "actors": [{"name": {"original": "Tom Berenger", "appeared_as": "Major McCulley"}, "photo": "https://yts.am/assets/images/actors/thumb/nm0000297.jpg", "url": "http://www.imdb.com/name/nm0000297/"}], 
+    "trailer": "https://www.youtube.com/embed/YKljIXle9Rc?rel=0&wmode=transparent&border=0&autoplay=1&iv_load_policy=3"}

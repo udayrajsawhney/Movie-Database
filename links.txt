@@ -1,0 +1,5 @@
+https://dev.mysql.com/doc/refman/5.7/en/trigger-syntax.html
+
+https://www.siteground.com/kb/mysql-triggers-use/
+
+https://www.w3resource.com/mysql/creating-table-advance/constraint.php
