@@ -14,4 +14,4 @@ A `php` backend server and `mysql` database based web application.
 
 ### Screenshots
 
-<img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/1.png" width="512" height="384"/> <img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/2.png" width="512" height="384"/> <img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/3.png" width="512" height="384"/> <img src="https://github.com/udayrajsawhney/4s/blob/master/screenshots/4.png" width="512" height="384"/>
+<img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/1.png" width="640" height="360"/> <img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/2.png" width="640" height="360"/> <img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/3.png" width="640" height="360"/> <img src="https://github.com/udayrajsawhney/Movie-Database/blob/master/screenshots/4.png" width="640" height="360"/>
